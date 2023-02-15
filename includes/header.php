@@ -62,7 +62,7 @@
                     <div class="navbar-collapse collapse ">
 
                     <!-- LOGO -->
-                    <h4 class="navbar-header"><a href="#" class="text-decoration-none">LIBRARY MANAGEMENT SYSTEM</a></h4>
+                    <h4 class="navbar-header"><a href="#">LIBRARY MANAGEMENT SYSTEM</a></h4>
 
                         <ul id="menu-top" class="nav navbar-nav navbar-right">                                    
                             <li><a href="adminlogin.php">Admin Login</a></li>

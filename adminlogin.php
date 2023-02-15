@@ -57,13 +57,13 @@ echo "<script>alert('Invalid Details');</script>";
 </div>
              
 <!--LOGIN PANEL START-->           
-<div class="d-flex row">
-<div class="col-md-6 col-sm-6 col-xs-12" >
+<div class="row">
+<div class="col-md-6 col-xs-12 col-md-offset-3" >
 
 <!-- LIBRARY Image -->
-<div class="d-flex justify-content-end">
+<!-- <div class="d-flex justify-content-end">
         <img src="./assets/img/admin.jpg" alt="Library">
-</div>
+</div> -->
 
 
 <div class="panel panel-success">
